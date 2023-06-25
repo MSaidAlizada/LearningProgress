@@ -1,7 +1,7 @@
 # Learning Progress
 First following googles machine learning courses
 ## Foundational courses
-- [ ] Introduction to Machine Learning
+- [X] Introduction to Machine Learning
 - [ ] Machine Learning Crash Course
 - [ ] Problem Framing
 - [ ] Data Preparation and Feature Engineering
