@@ -13,8 +13,8 @@ Finished on 6/25/2023
 ## Machine Learning Crash Course
 Started on 6/29/2023
 ### ML concepts
-- [ ] Framing
-- [ ] Descending into ML
+- [x] Framing
+- [x] Descending into ML
 - [ ] Reducing Loss
 - [ ] First Steps with TF
 - [ ] Generalization
