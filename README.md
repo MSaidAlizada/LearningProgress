@@ -15,8 +15,12 @@ Started on 6/29/2023
 ### ML concepts
 - [x] Framing
 - [x] Descending into ML
-- [ ] Reducing Loss
+- [X] Reducing Loss
 - [ ] First Steps with TF
+  - [ ] Numpy
+  - [ ] Pandas
+  - [ ] Linear Regression with Synthetic Data
+  - [ ] Linear Regression with a Real Dataset
 - [ ] Generalization
 - [ ] Training and Test Sets
 - [ ] Validation Set
