@@ -16,9 +16,9 @@ Started on 6/29/2023
 - [x] Framing
 - [x] Descending into ML
 - [X] Reducing Loss
-- [ ] First Steps with TF
-  - [ ] Numpy
-  - [ ] Pandas
+- [x] First Steps with TF
+  - [x] Numpy
+  - [x] Pandas
   - [ ] Linear Regression with Synthetic Data
   - [ ] Linear Regression with a Real Dataset
 - [ ] Generalization
